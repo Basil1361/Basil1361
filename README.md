@@ -9,4 +9,4 @@
 ###
 
 
-  ![Snake animation](https://github.com/Basil1361/Basil1361/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](.github/workflows/main.yml)
