@@ -8,4 +8,5 @@
 
 ###
 
-![Snake animation] (Basil1361)
+
+  ![Snake animation](https://github.com/Basil1361/Basil1361/blob/output/github-contribution-grid-snake.svg)
