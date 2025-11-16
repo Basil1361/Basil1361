@@ -7,3 +7,5 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/Basil1361/Basil1361/blob/output/github-snake-dark.svg)
