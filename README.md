@@ -7,6 +7,3 @@
 </div>
 
 ###
-
-
-  ![Snake animation](.github/workflows/main.yml)
