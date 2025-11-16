@@ -7,7 +7,3 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://png.pngtree.com/element_our/png/20180930/github-icon-design-vector-png_115671.jpg"  />
-
-###
