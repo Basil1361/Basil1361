@@ -1,5 +1,5 @@
 <p align="left">
-My name is Jia Jie, an aspiring Data Science student studying A-levels at Kolej Yayasan UEM. 
+My name is Jia Jie, an aspiring Data Science (Analytics + ML) student studying A-levels at Kolej Yayasan UEM. 
 
 - 🔭 I’m currently working on **Poker Project**
 - 👨🏻‍💻 Incoming 2026 Jan Data Science Workshop
