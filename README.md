@@ -1,7 +1,5 @@
 <p align="left">
-My name is Jia Jie, an aspiring Data Science (Analytics + ML) student studying A-levels at Kolej Yayasan UEM. 
-  
-- 👨🏻‍💻 Incoming 2026 March Data Science Workshop
+Data Science student @Purdue.
 </p>
 
 <div align="center">
